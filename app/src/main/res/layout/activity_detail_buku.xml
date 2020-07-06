@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    tools:context=".DetailBuku">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Judul"
+        android:textAllCaps="true"
+        android:letterSpacing="0.2"
+        android:textSize="15sp" />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Judul"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:id="@+id/tv_detail_judul"/>
+    <TextView
+        android:textAllCaps="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.2"
+        android:text="No. Register"
+        android:layout_marginTop="20dp"
+        android:textSize="15sp" />
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:id="@+id/tv_detail_register"/>
+    <TextView
+        android:textAllCaps="true"
+        android:letterSpacing="0.2"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengarang"
+        android:layout_marginTop="20dp"
+        />
+    <TextView
+        android:textColor="#000"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengarang"
+        android:id="@+id/tv_detail_pengarang"/>
+    <TextView
+        android:textAllCaps="true"
+        android:letterSpacing="0.2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Penerbit"
+        android:layout_marginTop="20dp"
+        android:textSize="15sp"
+        />
+    <TextView
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Penerbit"
+        android:id="@+id/tv_detail_penerbit"/>
+    <TextView
+        android:textAllCaps="true"
+        android:letterSpacing="0.2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tahun Terbit"
+        android:layout_marginTop="20dp"
+        android:textSize="15sp" />
+    <TextView
+        android:textColor="#000"
+        android:layout_marginTop="5dp"
+        android:textSize="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tahun Terbit"
+        android:id="@+id/tv_detail_tahun"/>
+</LinearLayout>

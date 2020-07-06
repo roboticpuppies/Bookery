@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356445949540",
+    "firebase_url": "https://bookery-8d426.firebaseio.com",
+    "project_id": "bookery-8d426",
+    "storage_bucket": "bookery-8d426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356445949540:android:8606baeb5149dd8b7c9971",
+        "android_client_info": {
+          "package_name": "com.example.bookery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356445949540-h6nmo3rg6lk38b1mcp4aseduiat37r1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookery",
+            "certificate_hash": "e4ee392c4173716075b9372d4b20a4626d30c71c"
+          }
+        },
+        {
+          "client_id": "356445949540-7u4sr6dcto7ouk0bnerio6s5gf5p5sjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjq3W-X8G3eNnoEA1Nuz99rwZbs3vpgW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356445949540-7u4sr6dcto7ouk0bnerio6s5gf5p5sjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
